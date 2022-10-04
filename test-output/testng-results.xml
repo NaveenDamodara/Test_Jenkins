@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-04T12:19:35 IST" name="Suite" finished-at="2022-10-04T12:19:35 IST" duration-ms="50">
+  <suite started-at="2022-10-04T21:29:19 IST" name="Default suite" finished-at="2022-10-04T21:29:19 IST" duration-ms="75">
     <groups>
     </groups>
-    <test started-at="2022-10-04T12:19:35 IST" name="Test" finished-at="2022-10-04T12:19:35 IST" duration-ms="50">
+    <test started-at="2022-10-04T21:29:19 IST" name="Default test" finished-at="2022-10-04T21:29:19 IST" duration-ms="75">
       <class name="SampleTestJenkins.LoginTests">
-        <test-method signature="logindetailswithinvaliedcredintials()[pri:0, instance:SampleTestJenkins.LoginTests@50caa560]" started-at="2022-10-04T12:19:35 IST" name="logindetailswithinvaliedcredintials" finished-at="2022-10-04T12:19:35 IST" duration-ms="11" status="PASS">
+        <test-method signature="logindetailswithinvaliedcredintials()[pri:0, instance:SampleTestJenkins.LoginTests@bd4dc25]" started-at="2022-10-04T21:29:19 IST" name="logindetailswithinvaliedcredintials" finished-at="2022-10-04T21:29:19 IST" duration-ms="14" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logindetailswithinvaliedcredintials -->
-        <test-method signature="logindetailswithnovaliedcredintials()[pri:0, instance:SampleTestJenkins.LoginTests@50caa560]" started-at="2022-10-04T12:19:35 IST" name="logindetailswithnovaliedcredintials" finished-at="2022-10-04T12:19:35 IST" duration-ms="1" status="PASS">
+        <test-method signature="logindetailswithnovaliedcredintials()[pri:0, instance:SampleTestJenkins.LoginTests@bd4dc25]" started-at="2022-10-04T21:29:19 IST" name="logindetailswithnovaliedcredintials" finished-at="2022-10-04T21:29:19 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logindetailswithnovaliedcredintials -->
-        <test-method signature="logindetailswithvaliedcredintials()[pri:0, instance:SampleTestJenkins.LoginTests@50caa560]" started-at="2022-10-04T12:19:35 IST" name="logindetailswithvaliedcredintials" finished-at="2022-10-04T12:19:35 IST" duration-ms="1" status="PASS">
+        <test-method signature="logindetailswithvaliedcredintials()[pri:0, instance:SampleTestJenkins.LoginTests@bd4dc25]" started-at="2022-10-04T21:29:19 IST" name="logindetailswithvaliedcredintials" finished-at="2022-10-04T21:29:19 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logindetailswithvaliedcredintials -->
       </class> <!-- SampleTestJenkins.LoginTests -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
