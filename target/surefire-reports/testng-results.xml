@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-04T12:55:00 IST" name="Suite" finished-at="2022-10-04T12:55:00 IST" duration-ms="65">
+    <groups>
+    </groups>
+    <test started-at="2022-10-04T12:55:00 IST" name="Test" finished-at="2022-10-04T12:55:00 IST" duration-ms="65">
+      <class name="SampleTestJenkins.LoginTests">
+        <test-method signature="logindetailswithinvaliedcredintials()[pri:0, instance:SampleTestJenkins.LoginTests@50caa560]" started-at="2022-10-04T12:55:00 IST" name="logindetailswithinvaliedcredintials" finished-at="2022-10-04T12:55:00 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindetailswithinvaliedcredintials -->
+        <test-method signature="logindetailswithnovaliedcredintials()[pri:0, instance:SampleTestJenkins.LoginTests@50caa560]" started-at="2022-10-04T12:55:00 IST" name="logindetailswithnovaliedcredintials" finished-at="2022-10-04T12:55:00 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindetailswithnovaliedcredintials -->
+        <test-method signature="logindetailswithvaliedcredintials()[pri:0, instance:SampleTestJenkins.LoginTests@50caa560]" started-at="2022-10-04T12:55:00 IST" name="logindetailswithvaliedcredintials" finished-at="2022-10-04T12:55:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindetailswithvaliedcredintials -->
+      </class> <!-- SampleTestJenkins.LoginTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
